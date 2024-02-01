@@ -576,6 +576,10 @@ video {
   display: flex;
 }
 
+.hidden {
+  display: none;
+}
+
 .w-\[85\%\] {
   width: 85%;
 }
